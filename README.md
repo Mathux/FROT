@@ -19,7 +19,7 @@ You can install them with pip.
 ## How to use :rocket:
 Our Frot model has a `sklearn-like` interface. 
 
-### Toy exemple
+### Toy example
 Run inside a Python Interpreter:
 
 ```python3
